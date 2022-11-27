@@ -1,0 +1,1 @@
+export const DISCORD = "223004006299992064";
