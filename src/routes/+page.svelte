@@ -19,7 +19,7 @@
 	</div>
 	<div class="md:w-[32rem] pt-1 bg-white bg-opacity-25 rounded-full my-1" />
 	{#if data.spotify}
-		<div class="max-w-lg py-2 text-lg text-white">
+		<div class="md:w-[32rem] py-2 text-lg text-white">
 			<iframe
 				title="Spotify Track"
 				style="border-radius:12px"
